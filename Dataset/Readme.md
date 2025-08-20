@@ -1,5 +1,4 @@
-# Project Title
-
+# Conditional-Image-Generation-using-GaussianGAN
 
 
 ## 📂 Dataset
