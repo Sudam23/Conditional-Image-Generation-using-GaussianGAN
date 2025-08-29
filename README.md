@@ -16,6 +16,7 @@ The model learns to generate **photorealistic images from segmentation maps**, c
 Two datasets were used for training and evaluation.  
 Links are provided inside [`Dataset/README.md`](Dataset/README.md).
 
+For PASCAL_VOC_2012 Dataset: 
 - `images/` → real images  
 - `segmentation_map/` → RGB visualization of segmentation  
 - `segmentation_labels/` → single-channel labels (IDs ∈ `[0…NUM_CLASSES-1]`, `255` = void class)  
