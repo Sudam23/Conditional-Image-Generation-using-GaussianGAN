@@ -19,6 +19,7 @@ Links are provided inside [`Dataset/README.md`](Dataset/README.md).
 For PASCAL_VOC_2012 Dataset: 
 - `images/` → real images  
 - `segmentation_map/` → RGB visualization of segmentation  
-- `segmentation_labels/` → single-channel labels (IDs ∈ `[0…NUM_CLASSES-1]`, `255` = void class)  
+- `segmentation_labels/` → single-channel labels (IDs ∈ `[0…NUM_CLASSES-1]`, `255` = void class)
+
 For Buildings Facades Dataset:
 - Facades dataset consists of 506 Building Facades & corresponding Segmentations with split into train and test subsets.
